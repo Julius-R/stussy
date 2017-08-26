@@ -1,0 +1,17 @@
+.shops {
+  padding: 5rem 0;
+}
+
+.flex-area {
+  padding-bottom: 3.25rem;
+}
+
+.featured-shops {
+  flex-direction: column;
+}
+
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}

@@ -1,0 +1,97 @@
+/*
+  Styles for 1024px
+*/
+
+@media screen and (max-width: 66.5rem) {
+  .mobile-nav {
+    flex-direction: column;
+    text-align: center;
+    margin: .75rem;
+  }
+}
+
+
+
+
+
+/*
+  Styles for 960px
+*/
+
+@media screen and (max-width: 60rem) {
+  .mobile-menu {
+    display: none;
+  }
+
+  .mobile-btn {
+    color: #fff;
+    display: block;
+  }
+}
+
+
+
+
+/*
+  Styles for 768px
+*/
+
+@media screen and (max-width: 48rem) {
+  .hero-title {
+    font-size: 2.5rem;
+  }
+
+  .hero-subtitle {
+    font-size: 2rem;
+  }
+}
+
+
+
+/*
+  Styles for 445px
+*/
+
+@media screen and (max-width: 27.8rem) {
+  .title {
+    font-size: 2rem;
+  }
+
+  .subtitle {
+    font-size: 1.5rem;
+  }
+
+  .shops {
+    padding: .5rem;
+  }
+
+  .flex-area {
+    flex-direction: column;
+  }
+
+  .flex-area {
+    padding-bottom: 0;
+  }
+
+  .sub-shops {
+    flex-direction: column;
+  }
+}
+
+
+
+
+
+/*
+  Styles for 400px
+*/
+
+@media screen and (max-width: 25rem) {
+  .title {
+    font-size: 1.12rem;
+  }
+
+  .subtitle {
+    font-size: 1.12rem;
+  }
+}
